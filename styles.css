@@ -1,0 +1,110 @@
+.navbar {
+  padding: 0.8rem;
+}
+.navbar-brand {
+  padding-right: 20px;
+}
+.nav-link {
+  font-size: 1.1em;
+}
+/*
+.carousel-item img {
+  width: 50%;
+  max-height: 750px;
+  margin-bottom: 0px;
+}
+*/
+.display-2 {
+  color: black;
+}
+.social a {
+  font-size: 4.5em;
+  padding: 3rem;
+}
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-twitter {
+  color: #00aced;
+}
+.fa-google-plus-g {
+  color: #dd4b39;
+}
+.fa-instagram {
+  color: #517fa4;
+}
+.fa-youtube {
+  color: #bb0000;
+}
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-google-plus-g:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+  color: #d5d5d5;
+}
+
+#carouselExampleIndicators {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.carousel-control-prev {
+  padding-left: 350px;
+}
+.carousel-control-next {
+    padding-right: 350px;
+  }
+.jumbotron {
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color:#fcfcfc;
+}
+
+.welcome {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+.details {
+  padding-right: 50px;
+  padding-left: 30px;
+}
+.products {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.emmy {
+  font-size: 1rem;
+  color:#bf4fb6;
+}
+.product-photo {
+  max-height: 100%;
+  width: 714px;
+  height: 500px;
+}
+body{
+    background-color:#fcfcfc;
+}
+.product-button {
+    color: #bf4fb6
+   
+    
+}
+.product-button {
+    border-color: #bf4fb6
+   
+    
+}
+.product-button:hover {
+    background-color: #a7a7a7
+   
+    
+}
+.product-button:hover {
+    border-color: #a7a7a7
+   
+    
+}
